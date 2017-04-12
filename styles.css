@@ -1,0 +1,36 @@
+.container {
+  width: 300px;
+  border: solid 1px #d4d4d4;
+  box-shadow: 4px 4px 1px 1px #eaeaea;
+  padding: 0 10px 10px;
+}
+
+.animal-name {
+  font-size: 16px;
+}
+
+.image {
+  width: 300px;
+  padding: 2px 0 8px;
+}
+
+.content {
+  font-size: 10px;
+  border: solid 1px #ddd;
+  padding: 0 8px 16px;
+}
+
+.interesting-thing {
+  font-style: italic;
+  padding: 4px 0;
+}
+
+.info-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.info-list>li>span {
+  font-weight: bold;
+}
